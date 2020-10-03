@@ -1,0 +1,7 @@
+Describe how your project addresses this challenge?
+
+I am trying to develop a different way of involving private companies and/or less developed nations to turn their gaze to space, since our future lies in space.
+This is important since by involving more and more companies and small nations, our next evolutionary step becomes accessible and interesting and could help us find new elements that could help us develop more advanced things.
+
+What it does is capture electrons that travel in space, coming from the Sun or some nearby "planetary electric field" and take it to its generating plant, which will transform these electrons and transform them into "microwaves" and then be sent to the surface of the planet or moon that will be absorbed by the different devices and/or robots on the surface to be explored, mined or occupied.
+And I hope to get more people involved in space and not see it as something untouchable, alien and distant.
